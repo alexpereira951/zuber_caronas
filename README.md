@@ -85,7 +85,7 @@ zuber_caronas/
 Substitua `<URL_DO_REPOSITORIO>` pela URL do repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/alexpereira951/zuber_caronas
 cd zuber_caronas
 ```
 
